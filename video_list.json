@@ -1,227 +1,66 @@
 {
-    "01Julio Iglesias - De ni\u00f1a a mujer.mp4": {
-        "image": "https://i.ytimg.com/vi/uvMFxSsgve0/hqdefault.jpg",
-        "title": "Julio Iglesias - La vida sigue igual",
-        "url": "../music_containers/section_1/music_u1/videos/01Julio Iglesias - De ni\u00f1a a mujer.mp4"
-    },
-    "02Julio Iglesias - Me olvid\u00e9 de vivir.mp4": {
-        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-        "title": "02Julio Iglesias - Me olvid\u00e9 de vivir",
-        "url": "../music_containers/section_1/music_u1/videos/02Julio Iglesias - Me olvid\u00e9 de vivir.mp4"
-    },
-    "03Julio Iglesias - Hey.mp4": {
-        "image": "https://i.ytimg.com/vi/Q0PL_WN4Bwo/hqdefault.jpg",
-        "title": "Top 4 Julio Iglesias",
-        "url": "../music_containers/section_1/music_u1/videos/03Julio Iglesias - Hey.mp4"
-    },
-    "04Julio Iglesias - Lo mejor de tu vida.mp4": {
-        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-        "title": "04Julio Iglesias - Lo mejor de tu vida",
-        "url": "../music_containers/section_1/music_u1/videos/04Julio Iglesias - Lo mejor de tu vida.mp4"
-    },
-    "05Julio Iglesias - Si me dejas no vale.mp4": {
-        "image": "https://i.ytimg.com/vi/YT37hTV82oA/hqdefault.jpg",
-        "title": "\u00daLTIMA HORA! ENRIQUE IGLESIAS y su FAMILIA, se VISTEN de LUT0, Tras INESPERADA NOTICIA HOY!",
-        "url": "../music_containers/section_1/music_u1/videos/05Julio Iglesias - Si me dejas no vale.mp4"
-    },
-    "15. Junior H - Ella [Official Audio]-juZH5kHAmxo.mp4": {
-        "image": "https://i.ytimg.com/vi/juZH5kHAmxo/hqdefault.jpg",
-        "title": "15. Junior H - Ella [Official Audio]",
-        "url": "../music_containers/section_1/music_u1/videos/15. Junior H - Ella [Official Audio]-juZH5kHAmxo.mp4"
-    },
-    "AUNQUE TE DE CORAJE - ROSENDO CANTU Y SUS COMANDANTES DE CHINA-WsZq2gJqITM.mp4": {
-        "image": "https://i.ytimg.com/vi/WsZq2gJqITM/hqdefault.jpg",
-        "title": "AUNQUE TE DE CORAJE - ROSENDO CANTU Y SUS COMANDANTES DE CHINA",
-        "url": "../music_containers/section_1/music_u1/videos/AUNQUE TE DE CORAJE - ROSENDO CANTU Y SUS COMANDANTES DE CHINA-WsZq2gJqITM.mp4"
-    },
-    "Audioslave - Be Yourself (Album Version, Closed Captioned)-WC5FdFlUcl0.mp4": {
-        "image": "https://i.ytimg.com/vi/WC5FdFlUcl0/hqdefault.jpg",
-        "title": "Audioslave - Be Yourself (Album Version, Closed Captioned)",
-        "url": "../music_containers/section_1/music_u1/videos/Audioslave - Be Yourself (Album Version, Closed Captioned)-WC5FdFlUcl0.mp4"
-    },
-    "Audioslave - Like a Stone (Official Video)-7QU1nvuxaMA.mp4": {
-        "image": "https://i.ytimg.com/vi/7QU1nvuxaMA/hqdefault.jpg",
-        "title": "Audioslave - Like a Stone (Official Video)",
-        "url": "../music_containers/section_1/music_u1/videos/Audioslave - Like a Stone (Official Video)-7QU1nvuxaMA.mp4"
-    },
-    "Bud's Beaux Arts-s7N3hrG4Oyc.mp4": {
-        "image": "https://i.ytimg.com/vi/s7N3hrG4Oyc/hqdefault.jpg",
-        "title": "Bud's Beaux Arts",
-        "url": "../music_containers/section_1/music_u1/videos/Bud's Beaux Arts-s7N3hrG4Oyc.mp4"
-    },
-    "Bush Sat\u00e1n-Bw545KFJqxU.mp4": {
-        "image": "https://i.ytimg.com/vi/Bw545KFJqxU/hqdefault.jpg",
-        "title": "Bush Sat\u00e1n",
-        "url": "../music_containers/section_1/music_u1/videos/Bush Sat\u00e1n-Bw545KFJqxU.mp4"
-    },
-    "Cuando Deje De Vivir A La Intemperie-N2PSXVOsHX0.mp4": {
-        "image": "https://i.ytimg.com/vi/N2PSXVOsHX0/hqdefault.jpg",
-        "title": "Cuando Deje De Vivir A La Intemperie",
-        "url": "../music_containers/section_1/music_u1/videos/Cuando Deje De Vivir A La Intemperie-N2PSXVOsHX0.mp4"
-    },
-    "Cuesti\u00f3n de tiempo-A5E8z70yeKk.mp4": {
-        "image": "https://i.ytimg.com/vi/A5E8z70yeKk/hqdefault.jpg",
-        "title": "Cuesti\u00f3n de tiempo",
-        "url": "../music_containers/section_1/music_u1/videos/Cuesti\u00f3n de tiempo-A5E8z70yeKk.mp4"
-    },
-    "EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4": {
-        "image": "https://i.ytimg.com/vi/LMONTXnBYvk/hqdefault.jpg",
-        "title": "EUROPE - Cherokee (1987)",
-        "url": "../music_containers/section_1/music_u1/videos/EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4"
-    },
-    "Europe - Carrie (Official Video)-KmWE9UBFwtY.mp4": {
-        "image": "https://i.ytimg.com/vi/KmWE9UBFwtY/hqdefault.jpg",
-        "title": "Europe - Carrie (Official Video)",
-        "url": "../music_containers/section_1/music_u1/videos/Europe - Carrie (Official Video)-KmWE9UBFwtY.mp4"
-    },
-    "Europe - Farewell-rPa6VdKC8Po.mp4": {
-        "image": "https://i.ytimg.com/vi/rPa6VdKC8Po/hqdefault.jpg",
-        "title": "Europe - Farewell",
-        "url": "../music_containers/section_1/music_u1/videos/Europe - Farewell-rPa6VdKC8Po.mp4"
-    },
-    "Guns N' Roses - Yesterdays-NDOPlpH6NZM.mp4": {
-        "image": "https://i.ytimg.com/vi/NDOPlpH6NZM/hqdefault.jpg",
-        "title": "Guns N' Roses - Yesterdays",
-        "url": "../music_containers/section_1/music_u1/videos/Guns N' Roses - Yesterdays-NDOPlpH6NZM.mp4"
-    },
-    "Huntadilla-SCmue1YNOgE.mp4": {
-        "image": "https://i.ytimg.com/vi/SCmue1YNOgE/hqdefault.jpg",
-        "title": "Huntadilla",
-        "url": "../music_containers/section_1/music_u1/videos/Huntadilla-SCmue1YNOgE.mp4"
-    },
-    "Lupe Ruvalcaba-qDANvvjBmxQ.mp4": {
-        "image": "https://i.ytimg.com/vi/qDANvvjBmxQ/hqdefault.jpg",
-        "title": "Lupe Ruvalcaba",
-        "url": "../music_containers/section_1/music_u1/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4"
-    },
-    "MUSIQUITO DEL TALON - HERMANOS VEGA-_-7amdcpjvg.mp4": {
-        "image": "https://i.ytimg.com/vi/_-7amdcpjvg/hqdefault.jpg",
-        "title": "MUSIQUITO DEL TALON - HERMANOS VEGA",
-        "url": "../music_containers/section_1/music_u1/videos/MUSIQUITO DEL TALON - HERMANOS VEGA-_-7amdcpjvg.mp4"
-    },
-    "Muse - Can't Take My Eyes Off You-jMeBAltloqo.mp4": {
-        "image": "https://i.ytimg.com/vi/jMeBAltloqo/hqdefault.jpg",
-        "title": "Muse - Can't Take My Eyes Off You",
-        "url": "../music_containers/section_1/music_u1/videos/Muse - Can't Take My Eyes Off You-jMeBAltloqo.mp4"
-    },
-    "Muse - Feeling Good (Video)-CmwRQqJsegw.mp4": {
-        "image": "https://i.ytimg.com/vi/CmwRQqJsegw/hqdefault.jpg",
-        "title": "Muse - Feeling Good (Video)",
-        "url": "../music_containers/section_1/music_u1/videos/Muse - Feeling Good (Video)-CmwRQqJsegw.mp4"
-    },
-    "Mute Math - Picture-dcaT0hamm-o.mp4": {
-        "image": "https://i.ytimg.com/vi/dcaT0hamm-o/hqdefault.jpg",
-        "title": "Mute Math - Picture",
-        "url": "../music_containers/section_1/music_u1/videos/Mute Math - Picture-dcaT0hamm-o.mp4"
-    },
-    "Nutshell-_siJRgDlddY.mp4": {
-        "image": "https://i.ytimg.com/vi/_siJRgDlddY/hqdefault.jpg",
-        "title": "Nutshell",
-        "url": "../music_containers/section_1/music_u1/videos/Nutshell-_siJRgDlddY.mp4"
-    },
-    "Questions of Travel-3nOativmdUc.mp4": {
-        "image": "https://i.ytimg.com/vi/3nOativmdUc/hqdefault.jpg",
-        "title": "Questions of Travel",
-        "url": "../music_containers/section_1/music_u1/videos/Questions of Travel-3nOativmdUc.mp4"
-    },
-    "Russian Red - Everyday Everynight-nRYtp5NENt0.mp4": {
-        "image": "https://i.ytimg.com/vi/nRYtp5NENt0/hqdefault.jpg",
-        "title": "Russian Red - Everyday Everynight",
-        "url": "../music_containers/section_1/music_u1/videos/Russian Red - Everyday Everynight-nRYtp5NENt0.mp4"
-    },
-    "Suicide Machines - Break The Glass-XcpJ7BhJgog.mp4": {
-        "image": "https://i.ytimg.com/vi/XcpJ7BhJgog/hqdefault.jpg",
-        "title": "Suicide Machines - Break The Glass",
-        "url": "../music_containers/section_1/music_u1/videos/Suicide Machines - Break The Glass-XcpJ7BhJgog.mp4"
-    },
-    "Suicide Machines - Hey!-LZBnylvJnFQ.mp4": {
-        "image": "https://i.ytimg.com/vi/LZBnylvJnFQ/hqdefault.jpg",
-        "title": "Suicide Machines - Hey!",
-        "url": "../music_containers/section_1/music_u1/videos/Suicide Machines - Hey!-LZBnylvJnFQ.mp4"
-    },
-    "Supe Quererte-luo0Lj_bfWo.mp4": {
-        "image": "https://i.ytimg.com/vi/luo0Lj_bfWo/hqdefault.jpg",
-        "title": "Supe Quererte",
-        "url": "../music_containers/section_1/music_u1/videos/Supe Quererte-luo0Lj_bfWo.mp4"
-    },
-    "Surfaris - Theme of the Battle Maiden - 45 rpm-wsrfBzMX--Y.mp4": {
-        "image": "https://i.ytimg.com/vi/wsrfBzMX--Y/hqdefault.jpg",
-        "title": "Surfaris - Theme of the Battle Maiden - 45 rpm",
-        "url": "../music_containers/section_1/music_u1/videos/Surfaris - Theme of the Battle Maiden - 45 rpm-wsrfBzMX--Y.mp4"
-    },
-    "Tu Regreso-2GqhvjWGSvE.mp4": {
-        "image": "https://i.ytimg.com/vi/2GqhvjWGSvE/hqdefault.jpg",
-        "title": "Tu Regreso",
-        "url": "../music_containers/section_1/music_u1/videos/Tu Regreso-2GqhvjWGSvE.mp4"
-    },
     "U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4": {
         "image": "https://i.ytimg.com/vi/ku7Wgqfsvmo/hqdefault.jpg",
-        "title": "U2 - I Threw A Brick Trough A Window (album 'October', '81)",
-        "url": "../music_containers/section_1/music_u1/videos/U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2%20-%20I%20Threw%20A%20Brick%20Trough%20A%20Window%20(album%20'October'%2C%20'81)-ku7Wgqfsvmo.mp4?raw=true"
     },
     "U2 - Love Is Bigger Than Anything In Its Way.mp4": {
-        "image": "https://i.ytimg.com/vi/Ki5keBCz8DQ/hqdefault.jpg",
-        "title": "U2 - Love Is Bigger Than Anything In Its Way",
-        "url": "../music_containers/section_1/music_u1/videos/U2 - Love Is Bigger Than Anything In Its Way.mp4"
+        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2%20-%20Love%20Is%20Bigger%20Than%20Anything%20In%20Its%20Way.mp4?raw=true"
     },
     "U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4": {
         "image": "https://i.ytimg.com/vi/kqdJ6CsXt4Y/hqdefault.jpg",
-        "title": "U2 - October 'October' (1981)",
-        "url": "../music_containers/section_1/music_u1/videos/U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2%20-%20October%20'October'%20(1981)-kqdJ6CsXt4Y.mp4?raw=true"
     },
     "U2 - Three  1979 (Full EP)-ARXPPtM9jUo.mp4": {
         "image": "https://i.ytimg.com/vi/ARXPPtM9jUo/hqdefault.jpg",
-        "title": "U2 - Three  1979 (Full EP)",
-        "url": "../music_containers/section_1/music_u1/videos/U2 - Three  1979 (Full EP)-ARXPPtM9jUo.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2%20-%20Three%20%201979%20(Full%20EP)-ARXPPtM9jUo.mp4?raw=true"
     },
     "U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4": {
         "image": "https://i.ytimg.com/vi/vZYDaIdpAD0/hqdefault.jpg",
-        "title": "U2 Is that all WITH LYRIC",
-        "url": "../music_containers/section_1/music_u1/videos/U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2%20Is%20that%20all%20WITH%20LYRIC-vZYDaIdpAD0.mp4?raw=true"
     },
     "Un Mar De Pan Duro-DhBNFhT0jiU.mp4": {
         "image": "https://i.ytimg.com/vi/DhBNFhT0jiU/hqdefault.jpg",
-        "title": "Un Mar De Pan Duro",
-        "url": "../music_containers/section_1/music_u1/videos/Un Mar De Pan Duro-DhBNFhT0jiU.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un%20Mar%20De%20Pan%20Duro-DhBNFhT0jiU.mp4?raw=true"
     },
     "Un Poco de Sangre-IA3Kes2AkGw.mp4": {
         "image": "https://i.ytimg.com/vi/IA3Kes2AkGw/hqdefault.jpg",
-        "title": "Un Poco de Sangre",
-        "url": "../music_containers/section_1/music_u1/videos/Un Poco de Sangre-IA3Kes2AkGw.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un%20Poco%20de%20Sangre-IA3Kes2AkGw.mp4?raw=true"
     },
     "Un Ramo de Rosas-XN5KufWcQMQ.mp4": {
         "image": "https://i.ytimg.com/vi/XN5KufWcQMQ/hqdefault.jpg",
-        "title": "Un Ramo de Rosas",
-        "url": "../music_containers/section_1/music_u1/videos/Un Ramo de Rosas-XN5KufWcQMQ.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un%20Ramo%20de%20Rosas-XN5KufWcQMQ.mp4?raw=true"
     },
     "Un Viejo Amor-F_-8o_5RTgs.mp4": {
-        "image": "https://i.ytimg.com/vi/F_-8o_5RTgs/hqdefault.jpg",
-        "title": "Un Viejo Amor",
-        "url": "../music_containers/section_1/music_u1/videos/Un Viejo Amor-F_-8o_5RTgs.mp4"
+        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un%20Viejo%20Amor-F_-8o_5RTgs.mp4?raw=true"
+    },
+    "UnderOath - A Love So Pure-EUDPo21Bdd4.mp4": {
+        "image": "https://i.ytimg.com/vi/EUDPo21Bdd4/hqdefault.jpg",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/UnderOath%20-%20A%20Love%20So%20Pure-EUDPo21Bdd4.mp4?raw=true"
+    },
+    "UnderOath - Cries Of The Past-gQvusP-w5TU.mp4": {
+        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/UnderOath%20-%20Cries%20Of%20The%20Past-gQvusP-w5TU.mp4?raw=true"
     },
     "Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4": {
-        "image": "https://i.ytimg.com/vi/vQMj-ljUZL4/hqdefault.jpg",
-        "title": "Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016",
-        "url": "../music_containers/section_1/music_u1/videos/Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4"
+        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Underoath%20-%20'Young%20and%20Aspiring'%20LIVE!%20Rebirth%20Tour%202016-vQMj-ljUZL4.mp4?raw=true"
+    },
+    "Underwater Visions-U2BVFWtlwWk.mp4": {
+        "image": "https://i.ytimg.com/vi/U2BVFWtlwWk/hqdefault.jpg",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Underwater%20Visions-U2BVFWtlwWk.mp4?raw=true"
     },
     "Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4": {
         "image": "https://i.ytimg.com/vi/IJrKlSkxRHA/hqdefault.jpg",
-        "title": "Unknown Mortal Orchestra - Hunnybee (Official Video)",
-        "url": "../music_containers/section_1/music_u1/videos/Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Unknown%20Mortal%20Orchestra%20-%20Hunnybee%20(Official%20Video)-IJrKlSkxRHA.mp4?raw=true"
     },
     "Upwards and Onwards-xmPyRs1nCdE.mp4": {
         "image": "https://i.ytimg.com/vi/xmPyRs1nCdE/hqdefault.jpg",
-        "title": "Upwards and Onwards",
-        "url": "../music_containers/section_1/music_u1/videos/Upwards and Onwards-xmPyRs1nCdE.mp4"
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Upwards%20and%20Onwards-xmPyRs1nCdE.mp4?raw=true"
     },
     "un noble enga\u00f1o los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4": {
-        "image": "https://i.ytimg.com/vi/UN8c6C-hp7A/hqdefault.jpg",
-        "title": "un noble enga\u00f1o los cadetes de linares lupe tijerina",
-        "url": "../music_containers/section_1/music_u1/videos/un noble enga\u00f1o los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4"
-    },
-    "\u00bfQui\u00e9nes somos \u00bfDe d\u00f3nde venimos \u00bfA d\u00f3nde vamos-j_cOUWdgmSU.mp4": {
-        "image": "https://i.ytimg.com/vi/j_cOUWdgmSU/hqdefault.jpg",
-        "title": "\u00bfQui\u00e9nes somos \u00bfDe d\u00f3nde venimos \u00bfA d\u00f3nde vamos",
-        "url": "../music_containers/section_1/music_u1/videos/\u00bfQui\u00e9nes somos \u00bfDe d\u00f3nde venimos \u00bfA d\u00f3nde vamos-j_cOUWdgmSU.mp4"
+        "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+        "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/un%20noble%20enga%C3%B1o%20los%20cadetes%20de%20linares%20lupe%20tijerina-UN8c6C-hp7A.mp4?raw=true"
     }
 }
