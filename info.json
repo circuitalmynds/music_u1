@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 105.7386,
+    "videos": [
         "Un Ramo de Rosas-XN5KufWcQMQ.mp4",
         "U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4",
         "Un Mar De Pan Duro-DhBNFhT0jiU.mp4",
@@ -12,7 +13,5 @@
         "U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4",
         "Upwards and Onwards-xmPyRs1nCdE.mp4",
         "Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4"
-    ],
-    "id": "u1",
-    "total_size": 100.8402099609375
+    ]
 }
