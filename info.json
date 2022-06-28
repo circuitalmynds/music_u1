@@ -1,121 +1,145 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Mario Lanza Vesti La Giubba 1958   Widescreen-rRhmogBs-gU.mp4",
-            "path": "music_u1/videos/Mario Lanza Vesti La Giubba 1958   Widescreen-rRhmogBs-gU.mp4",
-            "size": 8.886552576
+            "path": "u1/videos/Mario Lanza Vesti La Giubba 1958   Widescreen-rRhmogBs-gU.mp4",
+            "size": 8.886552576,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Mario Lanza Vesti La Giubba 1958   Widescreen-rRhmogBs-gU.mp4?raw=true"
         },
         {
             "name": "Un Mar De Pan Duro-DhBNFhT0jiU.mp4",
-            "path": "music_u1/videos/Un Mar De Pan Duro-DhBNFhT0jiU.mp4",
-            "size": 6.559090688
+            "path": "u1/videos/Un Mar De Pan Duro-DhBNFhT0jiU.mp4",
+            "size": 6.559090688,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un Mar De Pan Duro-DhBNFhT0jiU.mp4?raw=true"
         },
         {
             "name": "un noble engaño los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4",
-            "path": "music_u1/videos/un noble engaño los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4",
-            "size": 4.895992832
+            "path": "u1/videos/un noble engaño los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4",
+            "size": 4.895992832,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/un noble engaño los cadetes de linares lupe tijerina-UN8c6C-hp7A.mp4?raw=true"
         },
         {
             "name": "INTO EACH LIFE SOME RAIN MUST FALL (Original)-8SH-0fA6Ss8.mp4",
-            "path": "music_u1/videos/INTO EACH LIFE SOME RAIN MUST FALL (Original)-8SH-0fA6Ss8.mp4",
-            "size": 6.25227264
+            "path": "u1/videos/INTO EACH LIFE SOME RAIN MUST FALL (Original)-8SH-0fA6Ss8.mp4",
+            "size": 6.25227264,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/INTO EACH LIFE SOME RAIN MUST FALL (Original)-8SH-0fA6Ss8.mp4?raw=true"
         },
         {
             "name": "Marco Antonio Solís - Tu Amor O Tu Desprecio-1wAklw9UWSI.mp4",
-            "path": "music_u1/videos/Marco Antonio Solís - Tu Amor O Tu Desprecio-1wAklw9UWSI.mp4",
-            "size": 24.280523776000003
+            "path": "u1/videos/Marco Antonio Solís - Tu Amor O Tu Desprecio-1wAklw9UWSI.mp4",
+            "size": 24.280523776000003,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Marco Antonio Solís - Tu Amor O Tu Desprecio-1wAklw9UWSI.mp4?raw=true"
         },
         {
             "name": "If You Only Knew-UMWVZQHdYsE.mp4",
-            "path": "music_u1/videos/If You Only Knew-UMWVZQHdYsE.mp4",
-            "size": 3.045768192
+            "path": "u1/videos/If You Only Knew-UMWVZQHdYsE.mp4",
+            "size": 3.045768192,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/If You Only Knew-UMWVZQHdYsE.mp4?raw=true"
         },
         {
             "name": "U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4",
-            "path": "music_u1/videos/U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4",
-            "size": 8.276979712000001
+            "path": "u1/videos/U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4",
+            "size": 8.276979712000001,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2 - October 'October' (1981)-kqdJ6CsXt4Y.mp4?raw=true"
         },
         {
             "name": "Upwards and Onwards-xmPyRs1nCdE.mp4",
-            "path": "music_u1/videos/Upwards and Onwards-xmPyRs1nCdE.mp4",
-            "size": 2.821204992
+            "path": "u1/videos/Upwards and Onwards-xmPyRs1nCdE.mp4",
+            "size": 2.821204992,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Upwards and Onwards-xmPyRs1nCdE.mp4?raw=true"
         },
         {
             "name": "Un Viejo Amor-F_-8o_5RTgs.mp4",
-            "path": "music_u1/videos/Un Viejo Amor-F_-8o_5RTgs.mp4",
-            "size": 4.540089344
+            "path": "u1/videos/Un Viejo Amor-F_-8o_5RTgs.mp4",
+            "size": 4.540089344,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un Viejo Amor-F_-8o_5RTgs.mp4?raw=true"
         },
         {
             "name": "Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4",
-            "path": "music_u1/videos/Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4",
-            "size": 16.471847936
+            "path": "u1/videos/Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4",
+            "size": 16.471847936,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Unknown Mortal Orchestra - Hunnybee (Official Video)-IJrKlSkxRHA.mp4?raw=true"
         },
         {
             "name": "Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4",
-            "path": "music_u1/videos/Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4",
-            "size": 22.853633024
+            "path": "u1/videos/Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4",
+            "size": 22.853633024,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Underoath - 'Young and Aspiring' LIVE! Rebirth Tour 2016-vQMj-ljUZL4.mp4?raw=true"
         },
         {
             "name": "The Planets, Op. 32 - IV. Jupiter, the Bringer of Jollity-tyRVj3VRahc.mp4",
-            "path": "music_u1/videos/The Planets, Op. 32 - IV. Jupiter, the Bringer of Jollity-tyRVj3VRahc.mp4",
-            "size": 8.341371904
+            "path": "u1/videos/The Planets, Op. 32 - IV. Jupiter, the Bringer of Jollity-tyRVj3VRahc.mp4",
+            "size": 8.341371904,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/The Planets, Op. 32 - IV. Jupiter, the Bringer of Jollity-tyRVj3VRahc.mp4?raw=true"
         },
         {
             "name": "Under The Spell Of The Blues-rTRZdgMjZPA.mp4",
-            "path": "music_u1/videos/Under The Spell Of The Blues-rTRZdgMjZPA.mp4",
-            "size": 3.30192384
+            "path": "u1/videos/Under The Spell Of The Blues-rTRZdgMjZPA.mp4",
+            "size": 3.30192384,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Under The Spell Of The Blues-rTRZdgMjZPA.mp4?raw=true"
         },
         {
             "name": "I'm Just A Jitterbug-jUKbyIH6ty8.mp4",
-            "path": "music_u1/videos/I'm Just A Jitterbug-jUKbyIH6ty8.mp4",
-            "size": 3.6038021120000003
+            "path": "u1/videos/I'm Just A Jitterbug-jUKbyIH6ty8.mp4",
+            "size": 3.6038021120000003,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/I'm Just A Jitterbug-jUKbyIH6ty8.mp4?raw=true"
         },
         {
             "name": "It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly-p2AiQgnylrE.mp4",
-            "path": "music_u1/videos/It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly-p2AiQgnylrE.mp4",
-            "size": 8.637401088
+            "path": "u1/videos/It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly-p2AiQgnylrE.mp4",
+            "size": 8.637401088,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly-p2AiQgnylrE.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - Hoy Como Ayer (Video Oficial)-iKaabD50SjI.mp4",
-            "path": "music_u1/videos/Conjunto Primavera - Hoy Como Ayer (Video Oficial)-iKaabD50SjI.mp4",
-            "size": 18.038105088000002
+            "path": "u1/videos/Conjunto Primavera - Hoy Como Ayer (Video Oficial)-iKaabD50SjI.mp4",
+            "size": 18.038105088000002,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Conjunto Primavera - Hoy Como Ayer (Video Oficial)-iKaabD50SjI.mp4?raw=true"
         },
         {
             "name": "Maurice Ravel - Bolero-r30D3SW4OVw.mp4",
-            "path": "music_u1/videos/Maurice Ravel - Bolero-r30D3SW4OVw.mp4",
-            "size": 18.845111296000002
+            "path": "u1/videos/Maurice Ravel - Bolero-r30D3SW4OVw.mp4",
+            "size": 18.845111296000002,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Maurice Ravel - Bolero-r30D3SW4OVw.mp4?raw=true"
         },
         {
             "name": "Un Poco de Sangre-IA3Kes2AkGw.mp4",
-            "path": "music_u1/videos/Un Poco de Sangre-IA3Kes2AkGw.mp4",
-            "size": 10.466541568
+            "path": "u1/videos/Un Poco de Sangre-IA3Kes2AkGw.mp4",
+            "size": 10.466541568,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un Poco de Sangre-IA3Kes2AkGw.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 17 - Trenzinho (Trem De Ferro)-xINqYXhf8XY.mp4",
-            "path": "music_u1/videos/João Gilberto - 17 - Trenzinho (Trem De Ferro)-xINqYXhf8XY.mp4",
-            "size": 2.790825984
+            "path": "u1/videos/João Gilberto - 17 - Trenzinho (Trem De Ferro)-xINqYXhf8XY.mp4",
+            "size": 2.790825984,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/João Gilberto - 17 - Trenzinho (Trem De Ferro)-xINqYXhf8XY.mp4?raw=true"
         },
         {
             "name": "Un Ramo de Rosas-XN5KufWcQMQ.mp4",
-            "path": "music_u1/videos/Un Ramo de Rosas-XN5KufWcQMQ.mp4",
-            "size": 6.16877568
+            "path": "u1/videos/Un Ramo de Rosas-XN5KufWcQMQ.mp4",
+            "size": 6.16877568,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Un Ramo de Rosas-XN5KufWcQMQ.mp4?raw=true"
         },
         {
             "name": "U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4",
-            "path": "music_u1/videos/U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4",
-            "size": 9.157614592
+            "path": "u1/videos/U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4",
+            "size": 9.157614592,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2 - I Threw A Brick Trough A Window (album 'October', '81)-ku7Wgqfsvmo.mp4?raw=true"
         },
         {
             "name": "Écoute Chérie-OhqUMFj51X0.mp4",
-            "path": "music_u1/videos/Écoute Chérie-OhqUMFj51X0.mp4",
-            "size": 6.24776192
+            "path": "u1/videos/Écoute Chérie-OhqUMFj51X0.mp4",
+            "size": 6.24776192,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/Écoute Chérie-OhqUMFj51X0.mp4?raw=true"
         },
         {
             "name": "U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4",
-            "path": "music_u1/videos/U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4",
-            "size": 13.526853632000002
+            "path": "u1/videos/U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4",
+            "size": 13.526853632000002,
+            "url": "https://github.com/circuitalmynds/music_u1/blob/main/videos/U2 Is that all WITH LYRIC-vZYDaIdpAD0.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 218.010044416
 }
